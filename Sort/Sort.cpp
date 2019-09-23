@@ -41,6 +41,11 @@ void BubbleSort()
 
 int main()
 {
+	//find smallest number in array
+	//find largest number in array
+	//sort has finished when smallest number is in position 0 and biggest number is in position ArraySize.
+
+
 	BubbleSort();
 	PrintSort();
 }
